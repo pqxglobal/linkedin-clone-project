@@ -2,4 +2,4 @@
 # Linkedin Clone Practice Project
 > This repo contains code for the LinkedIn clone practice project.</br>
 > This is a bare project with minor modifications for practicing purposes</br>
-> You can see the result here: 
+> You can see the result here: https://pqxglobal-linkedin-clone-project.netlify.app/
