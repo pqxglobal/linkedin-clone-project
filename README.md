@@ -1,5 +1,5 @@
-# <a href="https://signal.org/en/#signal" title="Signal"><img src="./assets/signal.png" alt="Signal logo" width="30px" height="30px"> Signal clone practice</a>
-> This repo contains code for the Signal clone practice project.
-> https://signal.org/en/#signal
-
-> npx create-expo-app -t expo-template-blank-typescript
+<a href="https://www.linkedin.com/" title="Linkedin"><img src="./resources/icons/linkedin.png" alt="Linkedin logo" width="100px" height="100px"></a> 
+# Linkedin Clone Practice Project
+> This repo contains code for the LinkedIn clone practice project.</br>
+> This is a bare project with minor modifications for practicing purposes</br>
+> You can see the result here: 
